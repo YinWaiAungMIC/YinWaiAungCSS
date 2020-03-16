@@ -1,0 +1,86 @@
+
+
+	#nav {
+	text-align: right;
+	background-color: #3e747d;
+	padding: 15px;
+
+}
+
+#nav ul li {
+	display: inline;
+
+}
+
+#nav ul li a{
+	text-decoration: none;
+	color:#fcefca;
+	font-size: 20px;
+	padding: 0 15px;
+
+}
+
+#nav ul li a:hover{
+	color:#ad8105;
+}
+#album h1{
+	text-align: center;
+	padding: 30px 0;
+}
+
+#image img{
+	float: left;
+	width: 450px;
+	height: 368px;
+	margin: 20px 200px;
+}
+
+#desc{
+	float: left;
+	background-color: #57bdcf;
+	padding: 50px 60px;
+	border:1px solid  #3e747d;
+}
+
+
+.clear{
+	clear: both;
+}
+
+#btn{
+	background-color: #326b20;
+	border: 1px solid #ad8105;
+	padding: 10px 20px;
+	font-size: 17px;
+	border-radius: 50px;
+}
+
+table tr th{
+	background-color: #2d92c4;
+}
+
+table {
+	width: 100%;
+	background-color:#95dbda;
+
+}
+
+#submit{
+	background-color: #326b20;
+	border: 1px solid #ad8105;
+	padding: 10px 20px;
+	font-size: 17px;
+	border-radius: 50px;
+}
+
+#contact{
+	margin-bottom: 10px;
+}
+label{
+	display: inline-block;
+	width: 120px;
+}
+
+fieldset{
+	width: 50%;
+}
